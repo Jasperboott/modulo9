@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-directorio_fuentes = "./modulo9"
+directorio_fuentes = "./"
 archivos_fuente = {
     "sponge1": "plasticine_centre_100_below.avi"
 }
