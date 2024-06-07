@@ -8,7 +8,7 @@ import os
 
 directorio_fuentes = "./"
 archivos_fuente = {
-    "sponge1": "plasticine_centre_100_below"
+    "sponge1": "plasticine_centre_100_below.avi"
 }
 for k, v in archivos_fuente.items():
     archivos_fuente[k] = os.path.join(directorio_fuentes, v)
