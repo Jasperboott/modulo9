@@ -4,7 +4,7 @@ import pandas as pd
 
 import os
 
-directorio_fuentes = "../../../Deformable-Objects-Dataset/Press"
+directorio_fuentes = "./"
 archivos_fuente = {
     "sponge1": "0005.avi"
 }
