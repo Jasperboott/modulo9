@@ -6,7 +6,7 @@ import os
 
 directorio_fuentes = "../../../Deformable-Objects-Dataset/Press"
 archivos_fuente = {
-    "sponge1": "sponge_centre_100.avi"
+    "sponge1": "0005.avi"
 }
 for k, v in archivos_fuente.items():
     archivos_fuente[k] = os.path.join(directorio_fuentes, v)
